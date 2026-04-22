@@ -1,5 +1,5 @@
-Power BI Basic to Intermediate Training
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Power BI Basic to Intermediate Training – Prerequisites
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Step 1: Install Power BI Desktop
 Download and install the latest version of Microsoft Power BI Desktop from the official link below:
 https://www.microsoft.com/en-us/download/details.aspx?id=58494
