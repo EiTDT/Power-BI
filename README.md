@@ -6,7 +6,7 @@ https://www.microsoft.com/en-us/download/details.aspx?id=58494
 
 Step 2: Download Training Resources
 Please download the following files before starting the training:
-i) Dataset file
-ii) 7 image files (used for report design and visuals)
+i) Dataset.xlsx
+ii) 7 images (used for report design and visuals)
 
 Make sure all files are stored in an easily accessible folder on your computer.
